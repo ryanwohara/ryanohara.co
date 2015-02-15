@@ -5,9 +5,9 @@
 		<script src="/js/script.js" type="text/javascript"></script>
 	</head>
 	<body>
-		<div class="container">
-			<div class="col-md-6 col-md-offset-3">
-				<div class="content">
+		<div class="container" id="content">
+			<div class="row">
+				<div class="col-md-6 col-md-offset-3">
 					<div class="title">Ryan W. O'Hara</div>
 					<div class="quote">Code is what you make it.</div>
 					<a class="glyphicon glyphicon-home glyphicons-lg col-sm-offset-2 col-sm-2" title="Home" href="/"></a>
