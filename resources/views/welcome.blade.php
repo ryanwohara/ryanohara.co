@@ -6,13 +6,14 @@
 	</head>
 	<body>
 		<div class="container">
-			<div class="content">
-				<div class="row">
+			<div class="col-md-6 col-md-offset-3">
+				<div class="content">
 					<div class="title">Ryan W. O'Hara</div>
 					<div class="quote">Code is what you make it.</div>
-					<span class="glyphicon glyphicon-home glyphicons-lg" title="Home"></span>
-					<span class="glyphicon glyphicon-user" aria-hidden="true" title="About"></span>
-					<span class="glyphicon glyphicon-pencil" aria-hidden="true" title="Blog"></span>
+					<a class="glyphicon glyphicon-home glyphicons-lg col-sm-offset-2 col-sm-2" title="Home" href="/"></a>
+					<a class="glyphicon glyphicon-user glyphicons-lg col-sm-2" aria-hidden="true" title="Resume" href="/about"></a>
+					<a class="glyphicon glyphicon-pencil glyphicons-lg col-sm-2" aria-hidden="true" title="Blog" href="/blog"></a>
+					<a class="glyphicon glyphicon-envelope glyphicons-lg col-sm-2" aria-hidden="true" title="Contact" href="mailto:ryan@ryanwohara.com"></a>
 				</div>
 			</div>
 		</div>
