@@ -16,6 +16,7 @@
 					<a class="glyphicon glyphicon-user glyphicons-lg col-sm-2" aria-hidden="true" title="Resume" href="/about"></a>
 					<a class="glyphicon glyphicon-pencil glyphicons-lg col-sm-2" aria-hidden="true" title="Blog" href="/blog"></a>
 					<a class="glyphicon glyphicon-envelope glyphicons-lg col-sm-2" aria-hidden="true" title="Contact" id="contact" href="mailto:ryan@"></a>
+					<a id="twitter" class="twitter" href="https://twitter.com/sirrohara"></a>
 				</div>
 			</div>
 		</div>
