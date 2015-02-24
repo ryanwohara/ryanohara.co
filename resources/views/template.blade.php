@@ -16,15 +16,18 @@
 					</div>
 				</div>
 			</div>
-			<div class="row padding">
+<?php /*			<div class="row padding">
 				<div class="col-md-6 col-md-offset-3">
+					<a class="glyphicon glyphicon-user glyphicons-lg col-sm-offset-4 col-sm-2" aria-hidden="true" title="Resume" href="/about"></a>
 					<a class="glyphicon glyphicon-user glyphicons-lg col-sm-offset-4 col-sm-2" aria-hidden="true" title="Resume" href="/about"></a>
 					<a class="glyphicon glyphicon-envelope glyphicons-lg col-sm-2" aria-hidden="true" title="Contact" id="contact" href="mailto:ryan@"></a>
 				</div>
-			</div>
+			</div>*/ ?>
 			<div class="row padding">
                                 <div class="col-md-6 col-md-offset-3">
-					<a title="Twitter" class="fa fa-2x fa-twitter col-sm-offset-3 col-sm-2" href="https://twitter.com/sirrohara" target="_blank"></a>
+					<a title="Home" class="fa fa-2x fa-home col-sm-offset-1 col-sm-2" href="https://twitter.com/sirrohara" target="_blank"></a>
+					<a title="Resume" class="fa fa-2x fa-file-text col-sm-2" href="https://twitter.com/sirrohara" target="_blank"></a>
+					<a title="Twitter" class="fa fa-2x fa-twitter col-sm-2" href="https://twitter.com/sirrohara" target="_blank"></a>
 					<a title="LinkedIn" class="fa fa-2x fa-linkedin col-sm-2" href="https://www.linkedin.com/pub/ryan-w-o-hara/4b/ab9/824" target="_blank"></a>
 					<a title="GitHub" class="fa fa-2x fa-github col-sm-2" href="https://github.com/ryanwohara" target="_blank"></a>
 				</div>
