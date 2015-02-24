@@ -19,11 +19,11 @@
 			<div class="row padding">
                                 <div class="col-md-6 col-md-offset-3">
 					<div class="row">
-						<a title="Home" class="fa fa-2x fa-home col-sm-offset-1 col-md-2 col-sm-2" href="/"></a>
-						<a title="Resume" class="fa fa-2x fa-file-text col-md-2 col-sm-2" href="/resume"></a>
-						<a title="Twitter" class="fa fa-2x fa-twitter col-md-2 col-sm-2" href="https://twitter.com/sirrohara" target="_blank"></a>
-						<a title="LinkedIn" class="fa fa-2x fa-linkedin col-md-2 col-sm-2" href="https://www.linkedin.com/pub/ryan-w-o-hara/4b/ab9/824" target="_blank"></a>
-						<a title="GitHub" class="fa fa-2x fa-github col-md-2 col-sm-2" href="https://github.com/ryanwohara" target="_blank"></a>
+						<a title="Home" class="fa fa-3x fa-home col-sm-offset-1 col-md-2 col-sm-2" href="/"></a>
+						<a title="Resume" class="fa fa-3x fa-file-text col-md-2 col-sm-2" href="/resume"></a>
+						<a title="Twitter" class="fa fa-3x fa-twitter col-md-2 col-sm-2" href="https://twitter.com/sirrohara" target="_blank"></a>
+						<a title="LinkedIn" class="fa fa-3x fa-linkedin col-md-2 col-sm-2" href="https://www.linkedin.com/pub/ryan-w-o-hara/4b/ab9/824" target="_blank"></a>
+						<a title="GitHub" class="fa fa-3x fa-github col-md-2 col-sm-2" href="https://github.com/ryanwohara" target="_blank"></a>
 					</div>
 				</div>
 			</div>
