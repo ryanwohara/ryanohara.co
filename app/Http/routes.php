@@ -15,11 +15,11 @@ Route::get('/', 'WelcomeController@index');
 
 Route::get('home', 'HomeController@index');
 
-Route::get('about', 'WelcomeController@about');
+Route::get('about', 'WelcomeController@resume');
 
-Route::get('blog', 'WelcomeController@index');
+Route::get('resume', 'WelcomeController@resume');
 
-Route::controllers([
+/*Route::controllers([
 	'auth' => 'Auth\AuthController',
 	'password' => 'Auth\PasswordController',
-]);
+]);*/

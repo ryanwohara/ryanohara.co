@@ -33,8 +33,8 @@ class WelcomeController extends Controller {
 		return view('welcome');
 	}
 
-	public function about()
+	public function resume()
 	{
-		return view('about');
+		return view('resume');
 	}
 }
