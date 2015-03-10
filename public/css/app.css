@@ -8065,21 +8065,25 @@ body {
 @media (max-width: 767px) {
   #content {
     margin-top: 10px;
+    margin-bottom: 20px;
   }
 }
 @media (min-width: 768px) and (max-width: 991px) {
   #content {
     margin-top: 20px;
+    margin-bottom: 30px;
   }
 }
 @media (min-width: 992px) and (max-width: 1199px) {
   #content {
     margin-top: 50px;
+    margin-bottom: 70px;
   }
 }
 @media (min-width: 1200px) {
   #content {
-    margin-top: 150px;
+    margin-top: 80px;
+    margin-bottom: 100px;
   }
 }
 /* **** */
@@ -8087,5 +8091,17 @@ body {
   padding: 25px 0;
 }
 h1 {
-  font-size: 7em;
+  font-size: 6em;
+}
+h2 {
+  font-size: 5em;
+}
+h3 {
+  font-size: 4em;
+}
+h4 {
+  font-size: 3em;
+}
+.left {
+  float: left;
 }
