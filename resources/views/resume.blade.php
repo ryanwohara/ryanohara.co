@@ -2,8 +2,8 @@
 
 @section('content')
 
-<div class="row resume">
-	<div class="col-md-6 col-md-offset-3">
+<div class="row">
+	<div class="resume col-md-8 col-md-offset-2">
 		<h1>Resume</h1>
 	</div>
 </div>
