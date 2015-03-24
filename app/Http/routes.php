@@ -12,12 +12,10 @@
 */
 
 Route::get('/', 'WelcomeController@index');
+Route::get('home', 'WelcomeController@index');
 
-Route::get('home', 'HomeController@index');
-
-Route::get('about', 'WelcomeController@resume');
-
-Route::get('resume', 'WelcomeController@resume');
+//Route::get('about', 'WelcomeController@resume');
+//Route::get('resume', 'WelcomeController@resume');
 
 /*Route::controllers([
 	'auth' => 'Auth\AuthController',
