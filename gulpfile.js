@@ -15,5 +15,5 @@ elixir(function(mix) {
     mix.less('app.less')
     .scripts([
         'app.js'
-    ], 'public/js/script.js', 'resources/assets/scripts/');
+    ], 'public/js/script.js', 'assets/scripts/');
 });
