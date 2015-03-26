@@ -1,19 +1,25 @@
-var elixir = require('laravel-elixir');
+var gulp = require('gulp');
+var less = require('gulp-less');
+var minimize = require('gulp-minify-css');
+var concat = require('gulp-concat');
+var uglify = require('gulp-uglify');
 
-/*
- |--------------------------------------------------------------------------
- | Elixir Asset Management
- |--------------------------------------------------------------------------
- |
- | Elixir provides a clean, fluent API for defining some basic Gulp tasks
- | for your Laravel application. By default, we are compiling the Less
- | file for our application, as well as publishing vendor resources.
- |
- */
+var paths = {
+  scripts: ['assets/scripts/*'],
+  less: ['assets/less/*']
+};
 
-elixir(function(mix) {
-    mix.less('app.less')
-    .scripts([
-        'app.js'
-    ], 'public/js/script.js', 'assets/scripts/');
+gulp.task('less', function() {
+	return gulp.src(paths['less'])
+		.pipe(less({ style: 'compressed' }))
+		.pipe(concat('app.css'))
+		.pipe(minimize())
+		.pipe(gulp.dest('public_html/css'));
+});
+
+gulp.task('js', function() {
+	return gulp.src(paths['scripts'])
+		.pipe(concat('script.js'))
+		.pipe(uglify())
+		.pipe(gulp.dest('public_html/js'));
 });
