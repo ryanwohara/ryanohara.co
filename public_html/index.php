@@ -2,6 +2,7 @@
 	<head>
 		<title>Ryan W. O'Hara - Software Engineer & Systems Administrator</title>
 		<link href="data:image/x-icon;base64,AAABAAEAEBAQAAEABAAoAQAAFgAAACgAAAAQAAAAIAAAAAEABAAAAAAAgAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAABeODAAS/bgAE1nsABN6AAAbHcwAE0XgABMx1AAS4agAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIiIAIiAAAAAAiACIgAAAAAFUFVQAAAAAAd3dwAAAAAABmZmYAAAAAADMAMzAAAAAARABEQAAAAAEREREAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD//wAA//8AAP//AADgAwAA4AMAAOADAADwBwAA8A8AAPAHAADwBwAA4AcAAOAHAADgDwAA//8AAP//AAD//wAA" rel="icon" type="image/x-icon" />
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<link href='//fonts.googleapis.com/css?family=Lato:100' rel='stylesheet' type='text/css'>
 		<link href='/css/app.css' rel='stylesheet' type='text/css'>
