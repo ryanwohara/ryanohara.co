@@ -41,11 +41,11 @@
 							<div class="col-md-10 col-md-offset-1">
 								<h1>Knowledge</h1>
 								<dl>
-									<dt><h4>Fluent</h4></dt>
+									<dt>Fluent</dt>
 									<dd>HTML5 • Python • JavaScript/jQuery • PHP • MySQL • Regex • Debian • CentOS</dd>
-									<dt><h4>Comfortable</h4></dt>
+									<dt>Comfortable</dt>
 									<dd>Laravel • Git • SaltStack • Vagrant • SASS • Postfix & Dovecot • Exim • Java • Bootstrap</dd>
-									<dt><h4>Learning</h4></dt>
+									<dt>Learning</dt>
 									<dd>Perl • MongoDB • Redis • Ruby • Grunt • Bower • Composer</dd>
 								</dl>
 							</div>
