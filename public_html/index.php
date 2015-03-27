@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 	<head>
 		<title>Ryan W. O'Hara - Software Engineer & Systems Administrator</title>
@@ -45,7 +46,7 @@
 									<dt><h4>Comfortable</h4></dt>
 									<dd>Laravel • Git • SaltStack • Vagrant • SASS • Postfix & Dovecot • Exim • Java • Bootstrap</dd>
 									<dt><h4>Learning</h4></dt>
-									</dd>Perl • MongoDB • Redis • Ruby • Grunt • Bower • Composer</dd>
+									<dd>Perl • MongoDB • Redis • Ruby • Grunt • Bower • Composer</dd>
 								</dl>
 							</div>
 						</div>
